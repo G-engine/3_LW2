@@ -1,0 +1,15 @@
+D:\projects\C#\lw2\lw2\bin\Debug\net6.0\lw2.deps.json
+D:\projects\C#\lw2\lw2\bin\Debug\net6.0\lw2.dll
+D:\projects\C#\lw2\lw2\bin\Debug\net6.0\lw2.pdb
+D:\projects\C#\lw2\lw2\obj\Debug\net6.0\lw2.csproj.AssemblyReference.cache
+D:\projects\C#\lw2\lw2\obj\Debug\net6.0\lw2.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\C#\lw2\lw2\obj\Debug\net6.0\lw2.AssemblyInfoInputs.cache
+D:\projects\C#\lw2\lw2\obj\Debug\net6.0\lw2.AssemblyInfo.cs
+D:\projects\C#\lw2\lw2\obj\Debug\net6.0\lw2.csproj.CoreCompileInputs.cache
+D:\projects\C#\lw2\lw2\obj\Debug\net6.0\lw2.dll
+D:\projects\C#\lw2\lw2\obj\Debug\net6.0\refint\lw2.dll
+D:\projects\C#\lw2\lw2\obj\Debug\net6.0\lw2.pdb
+D:\projects\C#\lw2\lw2\obj\Debug\net6.0\ref\lw2.dll
+D:\projects\C#\lw2\lw2\bin\Debug\net6.0\lw2.exe
+D:\projects\C#\lw2\lw2\bin\Debug\net6.0\lw2.runtimeconfig.json
+D:\projects\C#\lw2\lw2\obj\Debug\net6.0\lw2.genruntimeconfig.cache
